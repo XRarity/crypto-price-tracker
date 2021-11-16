@@ -1,3 +1,12 @@
+# Setup Project - Sveltekit /netlify-adapter + Auth0
+
+based on [`Authenticating-svelte-apps`](https://auth0.com/blog/authenticating-svelte-apps)
+
+Environment variables for Auth0:
+    VITE_AUTH0_DOMAIN
+    VITE_AUTH0_CLIENT_ID    
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
